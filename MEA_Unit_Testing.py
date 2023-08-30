@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import unittest
 from your_data_collection_module import fetch_data
 
@@ -15,4 +9,3 @@ class TestDataCollection(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
