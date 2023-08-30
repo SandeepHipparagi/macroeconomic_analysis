@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import pandas as pd
 
 # Load data from CSV
@@ -14,4 +8,3 @@ data.fillna(0, inplace=True)  # Filling missing values with zeros
 
 # Save cleaned data to a new CSV
 data.to_csv("cleaned_macroeconomic_data.csv", index=False)
-
