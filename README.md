@@ -1,4 +1,4 @@
-# macroeconomic_analysis
+# Macroeconomic_Analysis
 
 This repository contains an automated data pipeline for collecting, processing, analyzing, and reporting macroeconomic indicators. The pipeline is designed to improve the efficiency of generating macroeconomic analysis reports and facilitate faster decision-making by top management.
 
